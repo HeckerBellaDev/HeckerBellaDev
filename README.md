@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HeckerBellaDev
+- 👋 Hi, I’m Louis@HeckerBellaDev
 - 👀 I’m interested in Python Django
 - 🌱 I’m currently learning blockchain
 - 💞️ I’m willing to collaborate on anything interesting
